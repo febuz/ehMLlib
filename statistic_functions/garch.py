@@ -16,7 +16,7 @@ def GARCH(df):
     """
     # seed pseudorandom number generator
     seed(1)
-    if len(df) < 1:
+    if len(df) < 10:
         # create dataset
         data = [gauss(0, i*0.01) for i in range(0,100)]
     else:
