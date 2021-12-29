@@ -9,7 +9,7 @@ with open('README.md', 'r') as f:
 
 setup(
     name='ehMLlib',
-    version='20211228.0',
+    version='20211229.0',
     description='Machine Learning Library Time-Series',
     long_description=long_description,
     long_description_content_type='text/markdown',
