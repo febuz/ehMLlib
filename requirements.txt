@@ -1,0 +1,7 @@
+setuptools~=57.0.0
+numerapi
+findspark
+py4j
+pyarrow
+fastparquet
+pyspark==3.2.2
