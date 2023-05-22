@@ -5,3 +5,4 @@ py4j
 pyarrow
 fastparquet
 pyspark==3.2.2
+cbsodata
